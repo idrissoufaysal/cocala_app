@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function Navbar() {
   const navMenu = [
     { id: 1, title: "Home", link: "/" },
-    { id: 2, title: "Home", link: "/" },
+    { id: 2, title: "Contact", link: "/" },
     { id: 2, title: "Home", link: "/" },
   ];
   return (
